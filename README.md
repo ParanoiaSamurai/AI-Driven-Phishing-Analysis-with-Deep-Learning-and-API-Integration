@@ -1,1 +1,2 @@
 # AI-Driven-Phishing-Analysis-with-Deep-Learning-and-API-Integration
+The code provides an overview of an optimized phishing detection system built using deep learning models, hyperparameter tuning, cross-validation, and integration of URL analysis using an API. The code is designed to accurately classify emails as either spam or ham (non-spam) based on their content and incorporates additional features such as URL analysis and domain reputation checks.
